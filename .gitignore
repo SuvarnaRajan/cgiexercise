@@ -1,0 +1,6 @@
+*.terraform*
+*.exe
+tf.plan
+.hcl*
+kubeconfig
+*.tfstate*
