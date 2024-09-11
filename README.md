@@ -15,3 +15,13 @@ Also share the source code with us when complete
 Put together a few slides to describe the technology stack that was used, what challenges you ran into and what you would improve if you had unlimited time and budget.
 Most importantly have fun, and feel free to get creative!
 
+Output :::
+
+![Screenshot 2024-09-11 140837](https://github.com/user-attachments/assets/6254fc1f-ef99-4f92-8516-d81f72c94127)
+
+AKS Output :::
+
+![Screenshot 2024-09-11 140733](https://github.com/user-attachments/assets/02bf7f24-081d-4266-a026-a1afc1782f74)
+
+
+
